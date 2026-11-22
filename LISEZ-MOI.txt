@@ -1,0 +1,8 @@
+SAFe, rôle par rôle
+====================
+
+1. Décompresser ce dossier (double-clic sur le .zip).
+2. Ouvrir le fichier index.html (double-clic) : le site s’affiche dans le navigateur.
+
+Aucune connexion internet ni installation nécessaire.
+Fonctionne avec Chrome, Firefox, Safari et Edge.
